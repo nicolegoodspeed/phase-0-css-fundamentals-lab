@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+
+head {
+  margin:center;
+}
+
+image {
+  margin: center;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+p#featured-property {
+  width: 800px;
+}
+
+* div {
+  float: left;
+  background-color: red;
+  margin: center;
+  width: 25%;
+  
+}
